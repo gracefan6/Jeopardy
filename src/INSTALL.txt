@@ -1,0 +1,10 @@
+Our project requires these packages:
+Yojson.Basic.Util
+ANSITerminal
+ppx_deriving_yojson (make sure to install using "opam install ppx_deriving_yojson")
+
+To build the system run:
+make build
+
+To play the system run:
+make play
